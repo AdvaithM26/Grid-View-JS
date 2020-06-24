@@ -5,7 +5,7 @@
  */
 
 
-let $card = $(".pi-card");
+let $card = $(".gv-card");
 
 $(".grid-4x3").on("click", () => {
 	$card.removeClass("col-lg-4");
