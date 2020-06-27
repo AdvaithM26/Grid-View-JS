@@ -1,0 +1,11 @@
+{
+  "name": "grid-view-js",
+  "version": "1.3.0",
+  "description": "Easily change between compact and spaced views with Grid View JS",
+  "main": "card-grid-view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Advaith Malka",
+  "license": "ISC"
+}
