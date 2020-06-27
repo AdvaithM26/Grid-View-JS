@@ -1,5 +1,5 @@
 # Grid-View-JS
-v 1.3
+Version 1.3 <br>
 https://advaithm26.github.io/grid-view-home.html
 
 A JavaScript library that easily lets you switch between different grid column widths
