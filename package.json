@@ -2,10 +2,22 @@
   "name": "grid-view-js",
   "version": "1.3.0",
   "description": "Easily change between compact and spaced views with Grid View JS",
-  "main": "card-grid-view.js",
+  "main": "main/grid-view.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Advaith Malka",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdvaithM26/Grid-View-JS.git"
+  },
+  "keywords": [
+    "Bootrap-grid",
+    "Bootstrap"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdvaithM26/Grid-View-JS/issues"
+  },
+  "homepage": "https://github.com/AdvaithM26/Grid-View-JS#readme"
 }
