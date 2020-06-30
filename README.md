@@ -19,7 +19,7 @@ npm i grid-view-js
 Place this at the bottom of your HTML document
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/AdvaithM26/Grid-View-JS@master/card-grid-view/card-grid-view.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/grid-view-js@1.4.0/main/grid-view.js" crossorigin="anonymous"></script>
 ```
 
 ### Download directly to your PC
@@ -41,6 +41,10 @@ https://advaithm26.github.io/grid-view-documentation.html
 If you have ideas for improvement feel free to clone the repository and add your changes.
 
 Make sure to submit a pull request after making your changes.
+
+## Licence 
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 #
 
